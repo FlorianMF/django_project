@@ -9,4 +9,4 @@ The site allows to:
 
 Furthermore it does include the code needed for deployment and hosting on Amazon Web Services.
 
-Kudos to [Corey Shafer](https://coreyms.com) whos [YouTube channel](https://www.youtube.com/user/schafer5) I highly recommand."#django_project" 
+Kudos to [Corey Shafer](https://coreyms.com) whos [YouTube channel](https://www.youtube.com/user/schafer5) I highly recommend.
