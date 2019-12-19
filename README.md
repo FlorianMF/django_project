@@ -1,4 +1,4 @@
-# Blog website created with the django library
+# Blog website created with the django framework
 The site allows to:
 - register as a user
 - add a picture to your profile
